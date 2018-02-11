@@ -1,4 +1,6 @@
 # Azure Functions
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeathstrob23%2FAzure-Functions.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeathstrob23%2FAzure-Functions?ref=badge_shield)
+
 
 Azure Functions is an event driven, compute-on-demand experience that extends the existing Azure application platform with capabilities to implement code triggered by events occurring in virtually any Azure or 3rd party service as well as on-premises systems. Azure Functions allows developers to take action by connecting to data sources or messaging solutions, thus making it easy to process and react to events. Azure Functions scale based on demand and you pay only for the resources you consume.
 
@@ -79,3 +81,7 @@ Before filing an issue, please check that it doesn't already exist. If you're no
 ### Samples
  - [List of samples](https://github.com/Azure/AzureFunctions/wiki/Samples)
  - [List of blogs](https://github.com/Azure/AzureFunctions/wiki/Blogs)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdeathstrob23%2FAzure-Functions.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdeathstrob23%2FAzure-Functions?ref=badge_large)
